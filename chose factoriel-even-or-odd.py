@@ -1,3 +1,4 @@
+# this code calculate even or odd of factorial
 number= int(input("enter the number"))
 choice=input("factoriel or even or odd (f/e)") 
 if choice=="f" :
